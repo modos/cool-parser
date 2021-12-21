@@ -1,0 +1,9 @@
+class main {
+    int main() {
+        let int m;
+        let int n;
+
+        n = 4;
+    }
+
+}

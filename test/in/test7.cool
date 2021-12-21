@@ -1,0 +1,6 @@
+class Main {
+    int main () {
+       let int c;
+        c = a.b;
+    }
+}

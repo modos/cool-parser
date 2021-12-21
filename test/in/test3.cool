@@ -1,0 +1,6 @@
+class Main {
+   int main() {
+        let real[] arr;
+        arr  = new Array(real,5);
+   }
+}

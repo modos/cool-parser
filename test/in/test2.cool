@@ -1,0 +1,9 @@
+class Main {
+    int main () {
+        let int number;
+        number = 10;
+        if (a == 10) then
+            print(number);
+        fi    
+    }
+}

@@ -1,0 +1,7 @@
+class Main {
+    int main () {
+        let int number;
+        number = 19;
+        print(number);
+    }
+}

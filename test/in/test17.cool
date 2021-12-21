@@ -1,0 +1,11 @@
+class main {
+    int main() {
+        if (x != y) then
+            x = 2;
+        else
+            y = 1;
+        fi   
+
+        return 0;
+    }
+}

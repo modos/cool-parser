@@ -1,0 +1,6 @@
+class Main {
+    int main() {
+        let int x;
+        x = in_int();
+    } 
+}

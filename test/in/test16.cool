@@ -1,0 +1,8 @@
+class AClass {
+
+    int func() {
+            let int magicNumber;
+            number = 2;
+            return 0;
+    }
+}
