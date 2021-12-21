@@ -1,5 +1,4 @@
 ## Cool Language Parser
-<hr>
 
 This is phase #2 of complier course project at shahid beheshti university.
 
