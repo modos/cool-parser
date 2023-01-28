@@ -43,6 +43,6 @@ Parser parser = new Parser(scanner, codeGen, "src/parser/table.npt");
 java <javaClassFile> --input <inputCoolFilePath> --output <outputFilePath> --table <tablePath>
 ```
 
-it creates output file in the test/out and show you the syntx in the input file is correct or wrong. you can use script_java.sh instead.
+it creates output file in the test/out and show you the syntax in the input file is correct or wrong. you can use script_java.sh instead.
 
 
